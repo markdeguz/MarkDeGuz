@@ -1,8 +1,11 @@
 <h1 align="center">👋 Hello there! My name is Mark!</h1>
 <h3 align="center">👨‍💻 Computer Science Graduate</h3>
 
-- 💡 I’m currently learning **JavaScript, ReactJS and AI**
+A highly motivated developer with a passion for coding and technologies. Committed to continuous learning and professional growth in a collaborative environment.
+
+- 💡 I’m currently learning **JavaScript, React and AI.**
 - 📚 Graduated in 2019 with a Bachelor's Degree in Computer Science at Munster Technological University.
+- 🤓 Open to collaborate!
 
 <h2 align="center"> 🔭 Tools & Technologies</h2>
 <p align="center">
@@ -15,8 +18,4 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
   
-  
-  
-  
-
 <hr>
