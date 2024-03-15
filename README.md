@@ -3,7 +3,7 @@
 
 A highly motivated developer with a passion for coding and technologies. Committed to continuous learning and professional growth in a collaborative environment.
 
-- 💡 I’m currently learning **JavaScript, React and AI.**
+- 💡 I’m currently learning **JavaScript, React, AI and Data Science.**
 - 📚 Graduated in 2019 with a Bachelor's Degree in Computer Science at Munster Technological University.
 - 🤓 Open to collaborate!
 
