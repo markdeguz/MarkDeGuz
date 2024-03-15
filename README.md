@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there! My name is Mark!</h1>
+<h1 align="center">👋 Hello there, My name is Mark!</h1>
 <h3 align="center">👨‍💻 Computer Science Graduate</h3>
 
 A highly motivated developer with a passion for coding and technologies. Committed to continuous learning and professional growth in a collaborative environment.
